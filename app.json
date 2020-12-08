@@ -1,0 +1,12 @@
+{
+  "name": "rnapp2021",
+  "displayName": "rnapp2021",
+  "expo": {
+    "name": "rnapp2021",
+    "slug": "rnapp2021",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
