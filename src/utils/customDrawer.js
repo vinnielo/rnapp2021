@@ -11,8 +11,8 @@ const SideDrawerCustom = (props) => {
     const dispatch = useDispatch();
     const mainOptions = [
         { title:'Stories',location:"Home" },
-        { title:'Videos',location:"Videos" },
-        { title:'Profile',location:"Profile" }
+        { title:'FAQ',location:"Videos" },
+        { title:'Settings',location:"Profile" }
     ]
 
     return(
